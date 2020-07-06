@@ -1,0 +1,17 @@
+.lista li a:hover {
+
+font-weight:bold;
+}
+
+.lista li a:active{
+display:block;
+}
+
+.lista li ul{
+display:none;
+}
+
+
+.lista ul ul li {
+background-color:#dcdcdc;
+}
